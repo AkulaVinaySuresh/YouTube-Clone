@@ -1,0 +1,8 @@
+body{
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-right: 20px;
+}
+p,div{
+    font-family: roboto,arial;
+}

@@ -1,7 +1,8 @@
 body{
-    padding-left: 80px;
-    padding-top: 80px;
+    padding-left: 50px;
+    padding-top: 75px;
     padding-right: 20px;
+    background-color: rgb(254, 248, 248) ;
 }
 p,div{
     font-family: roboto,arial;

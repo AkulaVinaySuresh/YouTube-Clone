@@ -19,13 +19,13 @@ p{
 
     }
 }
-@media (min-width: 1000px){
+@media (min-width: 1150px){
     .container {
          grid-template-columns: 1fr 1fr 1fr 1fr;
 
     }
 }
-@media (min-width:816px) and (max-width:999px){
+@media (min-width:816px) and (max-width:1151px){
     .container{
         grid-template-columns: 1fr 1fr 1fr;
     }
